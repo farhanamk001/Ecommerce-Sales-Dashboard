@@ -10,9 +10,7 @@ The dashboard helps stakeholders understand sales trends, profitability, custome
 
 
 
-Problem Statement
---------------------
-
+##Problem Statement
 A US-based Ecommerce Sales Company wants to build a Sales Dashboard to monitor YTD Sales performance and generate insights for the following business scenarios:
 -KPI-level performance tracking
 -Year-on-Year growth analysis
