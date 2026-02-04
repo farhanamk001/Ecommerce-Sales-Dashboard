@@ -14,38 +14,38 @@ Problem Statement
 --------------------
 
 A US-based Ecommerce Sales Company wants to build a Sales Dashboard to monitor YTD Sales performance and generate insights for the following business scenarios:
-KPI-level performance tracking
-Year-on-Year growth analysis
-Regional and state-wise sales performance
-Product-level sales analysis
-Shipping and customer category insights
+-KPI-level performance tracking
+-Year-on-Year growth analysis
+-Regional and state-wise sales performance
+-Product-level sales analysis
+-Shipping and customer category insights
 
 
 Tools & Technologies Used
 ------------------------------
 
-Power BI Desktop
-Power Query
-DAX (Data Analysis Expressions)
-MS SQL Server
-Flat Files (CSV / Excel)
+-Power BI Desktop
+-Power Query
+-DAX (Data Analysis Expressions)
+-MS SQL Server
+-Flat Files (CSV / Excel)
 
 
 
 Data Sources
 ----------------
-MS SQL Server database
-Flat files such as CSV and Excel
+-MS SQL Server database
+-Flat files such as CSV and Excel
 
 Power BI Functionalities 
 --------------------------------
 #Data Connection
-Connecting Power BI to MS SQL Server
-Importing data from flat files
+-Connecting Power BI to MS SQL Server
+-Importing data from flat files
 
 #Data Modeling
-Data modeling using three related tables
-Relationship creation and optimization
+-Data modeling using three related tables
+-Relationship creation and optimization
 
 #Data Cleaning
 Data transformation using Power Query
