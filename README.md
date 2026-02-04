@@ -11,12 +11,12 @@ The dashboard helps stakeholders understand sales trends, profitability, custome
 
 
 ## Problem Statement
-A US-based Ecommerce Sales Company wants to build a Sales Dashboard to monitor YTD Sales performance and generate insights for the following business scenarios:
--KPI-level performance tracking
--Year-on-Year growth analysis
--Regional and state-wise sales performance
--Product-level sales analysis
--Shipping and customer category insights
+- A US-based Ecommerce Sales Company wants to build a Sales Dashboard to monitor YTD Sales performance and generate insights for the following business scenarios:
+- KPI-level performance tracking
+- Year-on-Year growth analysis
+- Regional and state-wise sales performance
+- Product-level sales analysis
+- Shipping and customer category insights
 
 
 ## Tools & Technologies Used
@@ -29,101 +29,107 @@ A US-based Ecommerce Sales Company wants to build a Sales Dashboard to monitor Y
 
 
 
-Data Sources
-----------------
+## Data Sources
 -MS SQL Server database
 -Flat files such as CSV and Excel
 
-Power BI Functionalities 
---------------------------------
-#Data Connection
--Connecting Power BI to MS SQL Server
--Importing data from flat files
+## Power BI Functionalities Covered
 
-#Data Modeling
--Data modeling using three related tables
--Relationship creation and optimization
+### Data Connection
+- Connect Power BI to MS SQL Server
+- Import data from CSV and Excel files
 
-#Data Cleaning
-Data transformation using Power Query
-Handling missing values and data formatting
+### Data Modeling
+- Create data models using three related tables
+- Establish relationships between tables
+- Optimize model for analysis
 
-#Date Table
-Creating a custom Date Table
-Enabling Time Intelligence calculations
+### Data Cleaning
+- Clean raw data using Power Query
+- Handle missing and incorrect values
+- Format columns for consistency
 
-#Time Intelligence
-TOTALYTD
-SAMEPERIODLASTYEAR
-Year-on-Year calculations
+### Date Table
+- Create a custom Date Table in Power BI
+- Enable Time Intelligence calculations
 
-#DAX Concepts
-Basic to advanced DAX queries
-CALCULATE
-SUM, SUMX
-FILTER
-VALUES
-SELECTEDVALUE
-DIVIDE
-VAR and RETURN
-CONCATENATE
+### Time Intelligence Functions
+- Calculate YTD Sales using TOTALYTD
+- Calculate Previous YTD using SAMEPERIODLASTYEAR
+- Compute Year-on-Year growth metrics
 
-#KPI & Visualization
-Creating dynamic and complex KPIs
-Conditional formatting
-Dynamic icons and trend indicators
-Charts, maps, tables, and KPI banners
-Generating insights from visuals
+### DAX Concepts
+- Write basic DAX measures
+- Write advanced DAX calculations
+- Use CALCULATE function
+- Apply SUM and SUMX functions
+- Use FILTER for conditional logic
+- Use VALUES and SELECTEDVALUE
+- Use DIVIDE for safe calculations
+- Use VAR and RETURN for optimized DAX
+- Use CONCATENATE for text-based measures
 
-#Reporting
-Exporting Power BI reports
+### Visualization and KPIs
+- Create dynamic KPI banners
+- Apply conditional formatting
+- Add dynamic icons for trends
+- Create charts, tables, and maps
+- Format visuals for better readability
+- Generate insights from visualizations
 
-#Dashboard Features & Insights
---------------------------------
--KPI Banner
-YTD Sales
-YTD Profit
-YTD Quantity Sold
-YTD Profit Margin
-Year-on-Year growth for each KPI
-Monthly YTD sparklines for trend analysis
+### Reporting
+- Export Power BI reports
+- Share insights with stakeholders
 
-#Customer Category Analysis
-YTD Sales by customer category
-PYTD Sales
-YoY growth percentage
-Trend icons for performance comparison
+---
 
-#Geographic Analysis
-YTD Sales by State
-YTD Sales by Region
-Identification of best and worst performing regions
+## Dashboard Features and Insights
 
-#Product Performance
-Top 5 Products by Sales
-Bottom 5 Products by Sales
+### KPI Banner
+- Display YTD Sales
+- Display YTD Profit
+- Display YTD Quantity Sold
+- Display YTD Profit Margin
+- Show Year-on-Year growth for each KPI
+- Show monthly YTD sparklines for trend analysis
 
-#Shipping Analysis
-YTD Sales by Shipping Type
-Best performing shipping type percentage
+### Customer Category Analysis
+- Analyze YTD Sales by customer category
+- Compare PYTD Sales
+- Calculate YoY Sales growth
+- Display trend icons for performance comparison
 
-Key Learnings
-----------------
-End-to-end Power BI dashboard development
-Real-world ecommerce sales analysis
-Effective use of DAX for business KPIs
-Time Intelligence and YoY analysis
-Data modeling best practices
-Insight-driven storytelling using visuals
+### Geographic Analysis
+- Analyze YTD Sales by State
+- Analyze YTD Sales by Region
+- Identify best performing regions
+- Identify worst performing regions
 
+### Product Performance
+- Identify Top 5 Products by Sales
+- Identify Bottom 5 Products by Sales
 
-Project Outcome
----------------
-This dashboard provides a clear, data-driven view of ecommerce performance, enabling business users to:
-Monitor KPIs efficiently
-Identify growth opportunities
-Track underperforming regions or products
-Make informed business decisions
+### Shipping Analysis
+- Analyze YTD Sales by Shipping Type
+- Identify best performing shipping type
+- Calculate shipping type percentage contribution
+
+---
+
+## Key Learnings
+- End-to-end Power BI dashboard development
+- Hands-on experience with ecommerce sales data
+- Strong understanding of DAX and Time Intelligence
+- Practical knowledge of data modeling
+- Business-oriented data visualization skills
+
+---
+
+## Project Outcome
+- Provide a clear view of ecommerce sales performance
+- Help identify growth opportunities
+- Highlight underperforming products and regions
+- Support informed business decision making
 
 
 
