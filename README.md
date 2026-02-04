@@ -11,7 +11,7 @@ The dashboard helps stakeholders understand sales trends, profitability, custome
 
 
 ## Problem Statement
-- A US-based Ecommerce Sales Company wants to build a Sales Dashboard to monitor YTD Sales performance and generate insights for the following business scenarios:
+ A US-based Ecommerce Sales Company wants to build a Sales Dashboard to monitor YTD Sales performance and generate insights for the following business scenarios:
 - KPI-level performance tracking
 - Year-on-Year growth analysis
 - Regional and state-wise sales performance
@@ -30,10 +30,10 @@ The dashboard helps stakeholders understand sales trends, profitability, custome
 
 
 ## Data Sources
--MS SQL Server database
--Flat files such as CSV and Excel
+- MS SQL Server database
+- Flat files such as CSV and Excel
 
-## Power BI Functionalities Covered
+## Power BI Functionalities 
 
 ### Data Connection
 - Connect Power BI to MS SQL Server
