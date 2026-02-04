@@ -21,14 +21,13 @@ A US-based Ecommerce Sales Company wants to build a Sales Dashboard to monitor Y
 -Shipping and customer category insights
 
 
-Tools & Technologies Used
-------------------------------
+## Tools & Technologies Used
+- Power BI Desktop
+- Power Query
+- DAX (Data Analysis Expressions)
+- MS SQL Server
+- Flat Files (CSV / Excel)
 
--Power BI Desktop
--Power Query
--DAX (Data Analysis Expressions)
--MS SQL Server
--Flat Files (CSV / Excel)
 
 
 
